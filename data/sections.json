@@ -40,8 +40,8 @@
         },
         "ctaButton": {
           "type": "button",
-          "text": "Take the Assesdssment",
-          "color": "white",
+          "text": "Take the Assesdssmentfgh",
+          "color": "accentColor1",
           "backgroundColor": "accentColor1",
           "show": true
         },
